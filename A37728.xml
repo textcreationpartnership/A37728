@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief representation of the Quakers case of not-swearing and why they might have been, and yet may be, relieved therein by Parliament.</title>
+            <author>Eccleston, Theodor, 1651-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37728</idno>
+            <idno type="STC">Wing E141</idno>
+            <idno type="STC">ESTC R26092</idno>
+            <idno type="EEBO-CITATION">09348611</idno>
+            <idno type="OCLC">ocm 09348611</idno>
+            <idno type="VID">42813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1307:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief representation of the Quakers case of not-swearing and why they might have been, and yet may be, relieved therein by Parliament.</title>
+                  <author>Eccleston, Theodor, 1651-1726.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated: Theodor Eccleston, London, Dec. 22, 1694.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+               <term>Oaths --  Great Britain.</term>
+               <term>Liberty of conscience --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:42813:1"/>
+            <pb n="1" facs="tcp:42813:1"/>
+            <head>A BRIEF REPRESENTATION OF THE <hi>Quakers Caſe</hi> OF Not-Swearing; And why they might have been, and yet may be Re<g ref="char:EOLhyphen"/>lieved therein, by PARLIAMENT.</head>
+            <p>'TIS a certain truth, That among Chriſtians, and Proteſtants eſpecially; there are divers particular things about Religion, conſcientiouſly ſcrupled by ſome as unlawful, that others eſteem Orthodox: And therefore 'tis not to be wonder'd, that the Quakers differ from many others, (tho' not from all) in this Caſe of Oaths; they believing they are abſolutely forbid to Swear in a<g ref="char:EOLhyphen"/>ny Caſe, by that poſitive Com<g ref="char:EOLhyphen"/>mand of Chriſt, <hi>Matth.</hi> 5. 34. and the Earneſt Exhortation of his Apoſtle, <hi>James</hi> 5. 12. And that this is undeniably their Chriſtian Perſwaſion, is evi<g ref="char:EOLhyphen"/>denced by their Sufferings theſe many Years for not Swearing.</p>
+            <p>And therefore their Caſe may be worth the Charitable notice of the Government, by Law to Relieve them therein. And not for their Religious Perſwaſion, to continue them and their Fa<g ref="char:EOLhyphen"/>milies, expoſed to Ruin; who
+<pb n="2" facs="tcp:42813:2" rendition="simple:additions"/> among their Neighbours cheer<g ref="char:EOLhyphen"/>fully pay to the Support of the Government; and by their Trades, and Induſtry (accord<g ref="char:EOLhyphen"/>ing to their Capacities) ad<g ref="char:EOLhyphen"/>vance the National Stock.</p>
+            <p>It may therefore be humbly offer'd, 'That 'tis not the Inte<g ref="char:EOLhyphen"/>reſt of the Government, to re<g ref="char:EOLhyphen"/>fuſe them Relief.</p>
+            <p>Their Induſtry in Trade, both at Sea and Land, bringing Profit to the Government, as well as others; The Station they ſtand in, as Merchants, Farmers, Manufactors, Impro<g ref="char:EOLhyphen"/>vers of Lands and Stocks, is ad<g ref="char:EOLhyphen"/>vantagious to their Neighbours as truly as others. And as it ſeems not the Intereſt of the Government in general, that they ſhould be any ways diſcou<g ref="char:EOLhyphen"/>raged in their Honeſt Induſtry; ſo neither is it the Intereſt of an Eminent part of the Govern<g ref="char:EOLhyphen"/>ment, that they ſhould not be Reliev'd, <hi>viz.</hi> The Judges.</p>
+            <p>For the frequent Suites that are brought againſt Quakers, before the Chancery and Ex<g ref="char:EOLhyphen"/>chequer Judges, are no doubt very troubleſome and burthen<g ref="char:EOLhyphen"/>ſome, by the difficulty of get<g ref="char:EOLhyphen"/>ting at a Juſt Iſſue, for want of Swearing, whereby Juſtice is delayed, and their Cauſes of<g ref="char:EOLhyphen"/>ten held very long: And no doubt, when Juſt Judges ſee the Quakers wrong'd, and a<g ref="char:EOLhyphen"/>buſed, and can't Relieve them, 'tis irkſome to them: So that 'tis humbly conceiv'd, 'twould be a great eaſe to thoſe Courts, to have the Quakers Reliev'd in this Caſe of Oaths.</p>
+            <p>Neither is it without Advan<g ref="char:EOLhyphen"/>tage to the King's other Courts, to be able to uſe the Evidence of one who is now a Quaker, that perhaps was not ſo, ſome Years ago; when he was a Witneſs to a Bill, Bond, Book-debt, or Deed of Indenture; or when he was Steward, or Tru<g ref="char:EOLhyphen"/>ſtee, or Servant, either to Per<g ref="char:EOLhyphen"/>ſons of Quality, or to others of Trade, or Eſtate.</p>
+            <p>Nor may their Teſtimony be unuſeful to Coroners, in Caſe of Unnatural Deaths; nor inconvenient in Caſes of Treſpaſs or Felony, <hi>&amp;c.</hi>
+            </p>
+            <p>And it is further propoſed, That it is not the Intereſt of the Subject, to continue them un<g ref="char:EOLhyphen"/>relieved: For it is not the In<g ref="char:EOLhyphen"/>tereſt of thoſe the Quakers are indebted to: Becauſe, tho' ſuch may ſue and harraſs the Qua<g ref="char:EOLhyphen"/>kers, in Perſon and Eſtate;
+<pb n="3" facs="tcp:42813:2"/> yet they may long want a De<g ref="char:EOLhyphen"/>ciſion of their Debt or Claim, as to the right of it, for want of an Anſwer upon Oath.</p>
+            <p>It is not the Intereſt of thoſe they are concern'd with, in any doubtful Caſe, becauſe of the Difficulty to come to Tryal.</p>
+            <p>And for thoſe that owe Mo<g ref="char:EOLhyphen"/>ney to the Quakers, to be al<g ref="char:EOLhyphen"/>lowed to fly into Chancery for a Refuge; to obſtruct paying juſt Debts; is ſuch an Injury, as 'tis hoped, no one that is ra<g ref="char:EOLhyphen"/>tional will countenance, or de<g ref="char:EOLhyphen"/>ſire ſhould be continued upon them. And may it not then be aſſerted, That 'tis no Honeſt Man's true and juſt Intereſt, (to have the Quakers denied Re<g ref="char:EOLhyphen"/>lief) no not the Gown-men of <hi>VVeſtminſter-Hall,</hi> whoſe few Fees from the Quakers as Plain<g ref="char:EOLhyphen"/>tiffs, might ſuggeſt (tho' un<g ref="char:EOLhyphen"/>duly) that they have no long-tail'd Debts to ſue for, nor Titles to recover; but if they ſo ſuppoſe, it's a miſtake, for 'tis rather their deſpair of relief, and their well-known inability to purſue a Cauſe, that is their common determent to begin.</p>
+            <p>So that of all Cauſes that crowd thoſe Courts, few are brought by the Quakers, tho' they may need it as much as o<g ref="char:EOLhyphen"/>thers, to the great Loſs of the Learned in the Law, as well as the Poor Injured Quaker.</p>
+            <p>And one might think 'twere great pity, an Induſtrious People ſhould be kept liable to all Inju<g ref="char:EOLhyphen"/>rious Suites, and ſo much barr'd from Sueing for their Rights, be their Cauſe never ſo reaſon<g ref="char:EOLhyphen"/>able, juſt or neceſſary.</p>
+            <p>Seeing their Relief is to them ſo needful, ſo harmleſs to all, and ſo uſeful to the Govern<g ref="char:EOLhyphen"/>ment, and their Neighbours; Let's a little conſider the com<g ref="char:EOLhyphen"/>mon Objections; which may be ſum'd up in ſhort thus;</p>
+            <p>Firſt Objection, <hi>How ſhall we then be at a Certainty?</hi>
+            </p>
+            <p>Secondly, <hi>Why ſhould the Laws be alter'd for them? For,</hi>
+            </p>
+            <p>Thirdly, <hi>'Twould be to raſe old Foundations;</hi>
+            </p>
+            <p>Fourthly, <hi>And let them into the Government.</hi>
+            </p>
+            <p>Which it's hoped will not be difficult to anſwer one by one, and that to reaſonable ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+            <p>And to the Firſt, <hi>viz. The Doubt of Certainty.</hi> It may be rationally affirmed, That whoſoever is bound to tell the
+<pb n="4" facs="tcp:42813:3"/> Truth, (eſpecially againſt Mens own Intereſt, where the Temp<g ref="char:EOLhyphen"/>tation, if any, mainly lyes) ſuch are either ſo bound by the Law of God, or the Laws of Men, or both.</p>
+            <p>Now the Obligations by the Law of God are binding on good Men, whether they give Anſwers on Oath, or on their Solemn Affirmation in the fear of God; and Knaves are only bound by the Penal Laws of Men; which if made equally ſevere, to thoſe that give falla<g ref="char:EOLhyphen"/>cious Anſwers, as well without Oath as by Oath, would be equally effectual and binding, both to them that give Anſwers without Swearing, and to them that Swear.</p>
+            <p>The Second Objection, <hi>That 'twould be an Alteration of the Law;</hi> Not of the Subſtance of the Law, but of a Circum<g ref="char:EOLhyphen"/>ſtance; and if that hath no de<g ref="char:EOLhyphen"/>triment in it, but that the Alte<g ref="char:EOLhyphen"/>ration be really an Amendment, and a conveniency to an Honeſt, Induſtrious People, pray why ſhould it not be done? What Seſſions of Parliament is there, that paſſes, but ſome Law or other is made for the eaſe, ſecu<g ref="char:EOLhyphen"/>rity or relief of the Subject?</p>
+            <p>If Foreigners are too hard for our Sea-faring People, out goes an Act of Navigation to prevent it.</p>
+            <p>If our Poor at Home want Silk to Work with, how ſoon is it granted? (notwithſtanding the ſame Act) to come over Land, and not directly in Ship<g ref="char:EOLhyphen"/>ping from the places of it's pro<g ref="char:EOLhyphen"/>duce, as the ſaid Act before did enjoin; And ſhall the Eaſe of Trade be ſo ſoon granted, a<g ref="char:EOLhyphen"/>gainſt a poſitive Statute; and the Eaſe of Conſcience be ſo long denied in this, as poſitive a Command of Chriſt, at leaſt really ſo believed and accepted?</p>
+            <p>And for the Third Objection, <hi>That 'tis to raſe old Foundations:</hi> Anſwer, No; as 'twas ſaid, 'tis rather to mend them; a proper Work for Parliaments.</p>
+            <p>Did not Parliaments Abro<g ref="char:EOLhyphen"/>gate Popery, with all its Claim of Antiquity? Did not a Parlia<g ref="char:EOLhyphen"/>ment make the Act of <hi>Habeas Corpus</hi> againſt the Claim of Pre<g ref="char:EOLhyphen"/>rogative? And was it more reaſonable to ſecure the Subject from perpetual Impriſonment by a King without Tryal, than it is to ſecure one Subject from Impriſoning another till Death, for not giving an Anſwer in
+<pb n="5" facs="tcp:42813:3"/> Chancery or Exchequer upon Oath? Does it belong to Par<g ref="char:EOLhyphen"/>liaments to ſecure other Subjects in their Eſtates, Liberties and Properties? And is it Unparlia<g ref="char:EOLhyphen"/>mentary, to ſecure the Quakers from Sequeſtrations, againſt their whole Eſtates? Becauſe they dare not comply to a Cir<g ref="char:EOLhyphen"/>cumſtance of the Law; when (as they underſtand it) 'tis a<g ref="char:EOLhyphen"/>gainſt an expreſs Command of Chriſt? Surely no. And there<g ref="char:EOLhyphen"/>fore their Relief in Parliament is a fitting Caſe to be there tenderly taken notice of, and provided for.</p>
+            <p>May it not then be well worth the while for this preſent Par<g ref="char:EOLhyphen"/>liament, to Relieve theſe Di<g ref="char:EOLhyphen"/>ſtreſſed People, and afford their Suffering Caſe Redreſs? That thereby their Cauſes may the ſooner come to an Iſſue; whe<g ref="char:EOLhyphen"/>ther they Sue for Juſt Debts, or are Sued: Whereby many Un<g ref="char:EOLhyphen"/>juſt and Vexatious Suites, by Injurious and Litigious Perſons, may be prevented, which have often tended rather to the Qua<g ref="char:EOLhyphen"/>kers Ruin, and others Damage, than Recovery of their Right.</p>
+            <p>As to the Fourth Objection, <hi>That 'twill tend to let them into the Government:</hi> For Anſwer thereto, Barr that as hard as you pleaſe; only don't let the Suppoſal of that, from which ſo eaſily, and ſo willingly they may be excluded, be a hin<g ref="char:EOLhyphen"/>drance to that eaſe and benefit the Government may ſo eaſily afford them.</p>
+            <p>But now while you have op<g ref="char:EOLhyphen"/>portunity by the Station Provi<g ref="char:EOLhyphen"/>dence hath placed you in, pray be you of ſuch Noble, Generous Spirits, as to Relieve them, tho' they differ from you in the Conſtruction of a Text, they eſteem plain and poſitive on their ſide, and from which they dare not ſwerve, having there<g ref="char:EOLhyphen"/>in the Concurrence of many <note n="*" place="margin">
+                  <hi>Chryſoſ<gap reason="illegible: right margin cropped or obscured"
+                          resp="#KEYERS"
+                          extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> &amp;c. <hi>Sw<gap reason="illegible: right margin cropped or obscured"
+                          resp="#KEYERS"
+                          extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>by</hi>'s App<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the King<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Walter</hi>
+                  <gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his Decl<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on. Ac<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Monume<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Vol. 1.<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> new Ed<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>Young</hi>'s<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Exam. fol<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> old Edit.<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> abundan<gap reason="illegible: right margin cropped or obscured"
+                       resp="#KEYERS"
+                       extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thers.</note> Ancient Fathers, and Martyrs, and ſince them the Menniſts, and of late <hi>Francis Osbourne</hi> Eſquire, in his Political Refle<g ref="char:EOLhyphen"/>ctions, 7th Edition, p. 319. who treating of Judicial Caſes, calls <hi>Not-ſwearing,</hi> a Yielding a Sincere and Faithful Obedi<g ref="char:EOLhyphen"/>ence to the Precept of our Savi<g ref="char:EOLhyphen"/>our, Swear not at all, (which [ſays he] the Corrupt Gloſſes of Expoſitors labour much, tho' all in vain, to elude.)</p>
+            <p>And <hi>Swinderby</hi> in his Appeal to the King, complaining of the Errors of the Papiſts, ſay
+<pb n="6" facs="tcp:42813:4"/> thus, <hi>As Chriſt forbids Swear<g ref="char:EOLhyphen"/>ing, ſo</hi> [ſays he] <hi>the Pope juſti<g ref="char:EOLhyphen"/>fieth Swearing, and compels Men to Swear.</hi>
+            </p>
+            <p>Which no Man can rational<g ref="char:EOLhyphen"/>ly ſay, is only ſpoken of Swear<g ref="char:EOLhyphen"/>ing in Communication, for his Complaint is againſt juſtifying Swearing, and compelling Men to Swear, which cannot be pre<g ref="char:EOLhyphen"/>tended to mean other than ſo<g ref="char:EOLhyphen"/>lemn Swearing; for no Age, that we read of, did ever Au<g ref="char:EOLhyphen"/>thorize Prophane Swearing, much leſs compel to it.</p>
+            <p>Since therefore not only Pro<g ref="char:EOLhyphen"/>phane Swearing, but alſo So<g ref="char:EOLhyphen"/>lemn Swearing, was early com<g ref="char:EOLhyphen"/>plained of by Proteſtants, let it not ſeem ſtrange to any, that the Quakers now ſcruple Swear<g ref="char:EOLhyphen"/>ing, and for eaſe therein have often ſought Relief in Parlia<g ref="char:EOLhyphen"/>ment, the proper place.</p>
+            <p>Seeing then they believe they have the Authority of Chriſt's Command, and the Apoſtles Ex<g ref="char:EOLhyphen"/>hortation, and the Martyrs Do<g ref="char:EOLhyphen"/>ctrine on their ſide; tho' divers of you are not ſo perſwaded.</p>
+            <p>Yet let the World behold your Juſtice, and Willingneſs (according to your Power) to do Good to all the Honeſt and Induſtrious People you both Repreſent and Govern: By Enacting, <hi>That their Solemn Affirmation ſhall be accepted in Lieu of an Oath; and all that falſifie therein ſhall be Puniſhed Equally with Perjured Perſons.</hi>
+            </p>
+            <p>It having been made appear to a Committee of this Parlia<g ref="char:EOLhyphen"/>ment, <hi>[Dec.</hi> 2. 1692.] that they are Expoſed to great Hard<g ref="char:EOLhyphen"/>ſhips, as aforeſaid; and not themſelves only, but others al<g ref="char:EOLhyphen"/>ſo; [which was the Caſe of a Member or two of this preſent Parliament.]</p>
+            <p>So that upon the whole Matter, the ſaid Committee were of Opinion, and did Re<g ref="char:EOLhyphen"/>port it to the Houſe, <hi>That the Quakers ought to be Relieved according to the Prayer of their Petition,</hi> [then newly Preſented to the Houſe.]</p>
+            <p>Wherefore, as Liberty hath been given them, to declare their Allegiance to the Govern<g ref="char:EOLhyphen"/>ment without Swearing, for which Eaſe they are ſincerely thankful; ſo be pleaſed to add to that Kindneſs, their Relief in the Matter of Oaths, between them and other Subjects, as well as between the Government and them.</p>
+            <closer>
+               <signed>Signed in Behalf of the ſaid People, Theodor Eccleſton.</signed>
+               <dateline>London, <date>Dec. 22. 1694.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:42813:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
